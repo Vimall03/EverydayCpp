@@ -27,3 +27,10 @@ int main() {
 
     return 0;
 }
+
+```
+
+In this example, we have an array of size n, and we loop through it once, performing a constant number of operations (addition) on each element. Therefore, the time complexity of this algorithm is O(n), because the number of operations performed is proportional to the size of the input array.
+
+### Conclusion
+Understanding time complexity and analyzing the performance of algorithms is essential for every programmer. By choosing the most efficient algorithm for a given problem, we can improve the speed and efficiency of our programs, making them more reliable and scalable.
