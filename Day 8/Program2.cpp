@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 void printPattern(int n){
     for (int i = 0; i<n ; i++){
         for(int k = 0; k<i; k++){
@@ -15,7 +14,6 @@ void printPattern(int n){
         cout<<endl;
     }
 }
-
 int main(){
     int n;
     cout<<"Enter the value of n: ";
