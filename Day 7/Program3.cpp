@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//This program prints numerical patterns
 void printPattern(int n){
     
     for(int i = 0; i<n; i++){
@@ -10,7 +10,6 @@ void printPattern(int n){
         cout<<endl;
     }
 }
-
 int main(){
     int n;
     cout<<"Enter the value of n :";
